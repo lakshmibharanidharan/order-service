@@ -73,7 +73,7 @@
       <!-- Spring Boot Maven Plugin -->
       <plugin>
         <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-maven-plugin</artifactId>
+        <artifactId>order-service</artifactId>
       </plugin>
     </plugins>
   </build>
